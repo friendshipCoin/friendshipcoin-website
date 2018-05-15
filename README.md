@@ -1,4 +1,9 @@
 [![FriendshipCoin](https://friendshipcoin.com/assets/img/icon/logo.png)](https://github.com/friendshipCoin/friendshipcoin-website)
+<br/><br/>
+[![FriendshipCoinWebsite](https://img.shields.io/badge/Website-friendshipcoin.com-eaa809.svg)](https://friendshipcoin.com/)
+[![ContributorsWelcome](https://img.shields.io/badge/contributors-welcome-brightgreen.svg)](https://github.com/friendshipCoin/friendshipcoin-website)
+[![LICENSE](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Discord](https://img.shields.io/badge/chat-on_discord-7289da.svg)](https://discord.gg/UXR9We)
 
 # friendshipcoin.com
 
