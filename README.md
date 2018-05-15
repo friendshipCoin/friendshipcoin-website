@@ -2,7 +2,7 @@
 
 # friendshipcoin.com
 
-The lighting fast Friendship website built with Vue.js.
+The lighting fast Friendship website built with Vue.js JavaScript framework.
 
 ## Prerequisites
 
