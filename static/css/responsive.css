@@ -1,0 +1,1233 @@
+/* (1366x768) WXGA Display */
+@media  screen and (min-width: 1367px) and (max-width: 1920px) {
+    .header-top {
+        margin-bottom: 60px;
+    }
+    .hb-style-one {
+        left: 0;
+        top: 91px;
+        width: 100%;
+        z-index: 998;
+        position: absolute;
+    }
+    .hb-style-one.sticky-header {
+        position: fixed;
+        top: 0;
+    }
+}
+
+/* Medium Layout: 1367px. */
+
+@media only screen and (min-width: 1200px) and (max-width: 1366px) {
+    .header-top {
+        margin-bottom: 60px;
+    }
+    .hb-style-one {
+        left: 0;
+        top: 91px;
+        width: 100%;
+        z-index: 998;
+        position: absolute;
+    }
+    .hb-style-one.sticky-header {
+        position: fixed;
+        top: 0;
+    }
+}
+
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    /*----------------------------
+      home one
+      ----------------------------*/
+    .header-top {
+        margin-bottom: 60px;
+    }
+    .hb-style-one {
+        left: 0;
+        top: 91px;
+        width: 100%;
+        z-index: 998;
+        position: absolute;
+    }
+    .hb-style-one.sticky-header {
+        position: fixed;
+        top: 0;
+    }
+    .hta-single{
+        margin-left: 45px;
+    }
+    .slider-content ul.nav {
+        margin-bottom: 15px;
+    }
+    .slider-inner h2 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .cc-text{
+        margin-bottom: 20px;
+    }
+    .our-services {
+        padding: 100px 0px 80px;
+    }
+    .single-service{
+        margin-bottom: 20px;
+    }
+    .single-step span{
+        margin-right: 15px;
+    }
+    .prc-nav-tab{
+        margin-bottom: 40px;
+    }
+    .prc-single{
+        height: auto;
+        padding-bottom: 40px;
+    }
+
+    /*----------------------------
+    home Two
+    ----------------------------*/
+    .slick-vertical .s2-single.slick-slide{
+        height: 500px;
+    }
+    .s2-single-content h2 {
+        font-size: 33px;
+        line-height: 50px;
+    }
+    .faq-question {
+        max-height: 380px;
+    }
+
+    /*----------------------------
+    About Us
+    ----------------------------*/
+    .about-left-img {
+        margin-right: 0;
+        height: 377px;
+    }
+
+    /*----------------------------
+    Service Details
+    ----------------------------*/
+    .service-content h2 {
+        font-size: 23px;
+        line-height: 32px;
+        margin-bottom: 18px;
+    }
+    .sd-details-gap {
+        margin: 22px 0px;
+    }
+
+    /*----------------------------
+    Exchange
+    ----------------------------*/
+    .exchange-right-img {
+        margin-top: 85px;
+    }
+
+    /*----------------------------
+    Exchange Two
+    ----------------------------*/
+    .exchange-two .cryptonatorwidget table tbody {
+        display: block;
+    }
+
+    /*----------------------------
+    Blog
+    ----------------------------*/
+    .widget-area{
+        padding-left: 0;
+    }
+    .post-content {
+        padding: 29px 0px;
+    }
+
+    /*----------------------
+    Testimonial
+    ----------------------*/
+    .single-investor .meta-thumb{
+        margin-right: 13px;
+    }
+    .single-investor {
+        padding: 30px 15px 34px;
+    }
+
+    /*----------------------
+    404
+    ----------------------*/
+    .error-bg {
+        height: 554px;
+    }
+
+
+
+
+
+}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    /*----------------------------
+      home one
+      ----------------------------*/
+    .logo {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .slicknav_menu>a{
+        top: -15px;
+    }
+    .ht-address{
+        text-align: center!important;
+    }
+    .hta-single{
+        margin-left: 0;
+    }
+    .get-quote {
+        text-align: left;
+        margin: 10px 0px;
+    }
+    .slider-one{
+        padding: 90px 0px;
+    }
+    .slider-inner h2{
+        font-size: 37px;
+    }
+    .currency-form{
+        width: 83%;
+    }
+    .currency-calculate a.exchange-btn{
+        width: 17%;
+    }
+    .feature-area{
+        padding: 90px 0px;
+    }
+    .our-services {
+        padding: 80px 0px 60px;
+    }
+    .single-service{
+        margin-bottom: 30px;
+    }
+    .step-area {
+        padding: 90px 0px 50px;
+    }
+    .single-step{
+        margin-bottom: 40px;
+    }
+    .pricing-area{
+        padding: 90px 0px;
+    }
+    .prc-nav-tab{
+        margin-bottom: 40px;
+    }
+    .prc-single{
+        height: auto;
+        padding-bottom: 40px;
+    }
+    .testimonial-area {
+        padding: 90px 0px 145px;
+    }
+    .single-quotes p{
+        font-size: 14px;
+        margin-bottom: 16px;
+    }
+    .subscribe-area h2 {
+        font-size: 21px;
+    }
+    .subscribe-form input{
+        height: 60px;
+    }
+    .subscribe-form button{
+        right: 3px;
+        top: 3px;
+    }
+    .footer-top{
+        padding: 90px 0px 50px;
+    }
+    .fwidget{
+        margin-bottom: 40px;
+    }
+
+    .s2-single-content h2 {
+        font-size: 38px;
+    }
+
+    /*----------------------------
+    home Two
+    ----------------------------*/
+    .s2-single-content h2 {
+        font-size: 38px;
+    }
+    #header_fixed_height{
+        height: 174px;
+    }
+    .slick-vertical .s2-single.slick-slide{
+        height: 500px;
+    }
+    .faq-question {
+        max-height: 259px;
+    }
+
+    /*----------------------------
+    home Threee
+    ----------------------------*/
+    .chart-inner{
+        margin-bottom: 40px;
+    }
+    .bitcoin-chart{
+        padding-bottom: 60px;
+    }
+
+    /*----------------------
+    About Us
+    ----------------------*/
+    .about-us {
+        padding: 90px 0px 60px;
+    }
+    .about-left-img{
+        margin-right: 0;
+    }
+    .about-content{
+        margin-bottom: 40px;
+    }
+
+    /*----------------------
+    Services
+    ----------------------*/
+    .all-services{
+        margin-top: 0;
+        padding-bottom: 90px;
+    }
+    .all-services .single-service{
+        margin-bottom: 40px;
+    }
+
+    /*----------------------
+    Services Details
+    ----------------------*/
+    .service-details {
+        padding: 70px 0px;
+    }
+    .sdetails-img{
+        text-align: center;
+    }
+    .sdetails-img img{
+        margin-bottom: 30px;
+    }
+    .sdc-right, .sdc-left{
+        padding: 0px;
+    }
+    .sd-details-gap {
+        margin: 20px 0px;
+    }
+    .sdetails-img {
+        margin-top: 20px;
+    }
+
+    /*----------------------
+    Exchange
+    ----------------------*/
+    .exchange-content{
+        margin-top: 90px;
+    }
+    .exchange-area {
+        padding-bottom: 90px;
+    }
+    .exchange-content .currency-form {
+        width: 77%;
+    }
+    .exchange-content a.exchange-btn {
+        width: 140px;
+        margin-top: 17px;
+    }
+
+    /*----------------------
+    Blog
+    ----------------------*/
+    .blog-post-area {
+        padding: 80px 0px;
+    }
+    .widget-area {
+        padding-left: 0;
+        margin-top: 70px;
+    }
+
+    /*----------------------
+    Faq
+    ----------------------*/
+    .faq-main-area {
+        padding: 90px 0px;
+    }
+    .faq-main-content{
+        padding-right: 0;
+    }
+
+    /*----------------------
+    Testimonial
+    ----------------------*/
+    .all-investor {
+        padding: 90px 0px;
+    }
+    .single-investor .meta-thumb{
+        margin-right: 13px;
+    }
+    .single-investor {
+        padding: 30px 15px 34px;
+    }
+
+    /*----------------------
+    Team
+    ----------------------*/
+    .all-member-area{
+        padding-bottom: 20px;
+    }
+    .m-details-inner .m-details-thumb {
+        margin-right: 42px;
+    }
+
+    /*----------------------
+    Get a Quotes
+    ----------------------*/
+    .get-quote-area {
+        padding: 90px 0px 70px;
+    }
+
+    /*----------------------
+    Contact
+    ----------------------*/
+    .contact-info-area {
+        padding-top: 90px;
+    }
+    .contact-form-area {
+        padding: 60px 0px 60px;
+    }
+    #google_map {
+        height: 100%;
+    }
+
+    /*----------------------
+    404
+    ----------------------*/
+    .error-bg {
+        height: 554px;
+    }
+
+}
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+    /*----------------------
+    Blog
+    ----------------------*/
+    .post-thumb{
+        margin-right: 0;
+    }
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+    /*----------------------------
+    home one
+    ----------------------------*/
+    .logo {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .slicknav_menu>a{
+        top: -15px;
+    }
+    .ht-address{
+        text-align: center!important;
+    }
+    .hta-single{
+        margin-left: 0;
+    }
+    .get-quote {
+        text-align: left;
+        margin: 10px 0px;
+    }
+    .slider-content ul.nav{
+        margin-bottom: 20px;
+    }
+    .slider-inner h2{
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .currency-form{
+        width: 100%;
+        margin-top: 35px;
+    }
+    .cryptonatorwidget table tbody{
+        flex-wrap: wrap;
+    }
+    .cryptonatorwidget table tr{
+        flex-basis: 100%;
+    }
+    .currency-calculate a.exchange-btn{
+        float: left;
+        width: 150px;
+    }
+    .section-title h2{
+        font-size: 25px;
+        line-height: 38px;
+    }
+    .feature-area{
+        padding: 80px 0px;
+    }
+    .our-services {
+        padding: 80px 0px 60px;
+    }
+    .single-service{
+        margin-bottom: 30px;
+    }
+    .step-area{
+        padding: 80px 0px 40px;
+    }
+    .single-step{
+        margin-bottom: 40px;
+    }
+    .pricing-area {
+        padding: 80px 0px;
+    }
+    .prc-single{
+        margin-top: 40px;
+        height: auto;
+        padding-bottom: 40px;
+    }
+    .testimonial-area {
+        padding: 80px 0px;
+    }
+    .tst-thumb-area {
+        margin: auto;
+        margin-bottom: 37px;
+    }
+    .single-quotes{
+        text-align: center;
+    }
+    .single-quotes p{
+        font-size: 15px;
+    }
+    .tst-content .slick-dots {
+        left: 0;
+        bottom: 0;
+        text-align: center;
+        position: relative;
+        margin-top: 43px;
+    }
+    .subscribe-form input{
+        height: 60px;
+    }
+    .subscribe-form button{
+        right: 3px;
+        top: 3px;
+    }
+    .footer-top{
+        padding: 80px 0px 40px;
+    }
+    .fwidget{
+        margin-bottom: 40px;
+    }
+
+    /*----------------------
+    home two
+    ----------------------*/
+    a#scrollUp{
+        display: none;
+    }
+    #header_fixed_height{
+        height: 174px;
+    }
+    .slider-two-active{
+        display: none;
+    }
+    .s2-content-wrap{
+        position: relative;
+    }
+    .s2-content-active .slick-list{
+        width: 100%;
+        height: auto;
+        padding: 80px 20px;
+        padding-bottom: 170px;
+    }
+    .s2-content-active:before{
+        display: none;
+    }
+    .s2-single-content h2 {
+        font-size: 30px;
+        line-height: 41px;
+    }
+    .s2-single-content p{
+        color: #fff;
+    }
+    .s2-content-active .slick-arrow{
+        z-index: 1;
+        right: calc(50% - 55px);
+    }
+    .s2-content-active .slick-prev{
+        right: auto;
+        left:  calc(50% - 55px);
+    }
+    .faq-left-img {
+        margin-bottom: 40px;
+    }
+    .faq-area{
+        padding-bottom: 80px;
+    }
+
+    /*----------------------
+    home Three
+    ----------------------*/
+    .s3-single {
+        height: auto;
+        display: block;
+        padding: 90px 0px;
+    }
+    .slider-three .owl-nav{
+        display: none;
+    }
+    .live-area {
+        padding-top: 80px;
+    }
+    .chart-inner{
+        margin-bottom: 40px;
+    }
+    .bitcoin-chart{
+        padding-bottom: 50px;
+    }
+
+    /*----------------------
+    About Us
+    ----------------------*/
+    .about-us {
+        padding: 80px 0px 50px;
+    }
+    .about-left-img{
+        margin-right: 0;
+    }
+    .about-content{
+        margin-bottom: 40px;
+    }
+
+    /*----------------------
+    Services
+    ----------------------*/
+    .all-services{
+        margin-top: 0;
+        padding-bottom: 80px;
+    }
+    .all-services .single-service{
+        margin-bottom: 40px;
+    }
+
+    /*----------------------
+    Services Details
+    ----------------------*/
+    .service-details {
+        padding: 70px 0px 60px;
+    }
+    .sdetails-img{
+        text-align: center;
+    }
+    .sdetails-img img{
+        margin-bottom: 30px;
+    }
+    .sdc-right, .sdc-left{
+        padding: 0px;
+    }
+    .service-content h2 {
+        font-size: 19px;
+        font-weight: 500;
+        line-height: 30px;
+    }
+    .sd-details-gap {
+        margin: 10px 0px;
+    }
+    .service-content h4 {
+        font-size: 15px;
+        line-height: 28px;
+    }
+    .sdetails-img {
+        margin-top: 20px;
+    }
+
+    /*----------------------
+    Exchange
+    ----------------------*/
+    .exchange-content{
+        margin-top: 80px;
+    }
+    .exchange-area {
+        padding-bottom: 80px;
+    }
+
+    /*----------------------
+    Blog
+    ----------------------*/
+    .blog-post-area {
+        padding: 80px 0px;
+    }
+    .single-post {
+        max-width: 400px;
+        margin: auto;
+        margin-bottom: 50px;
+    }
+    .post-content:before{
+        display: none;
+    }
+    .post-thumb{
+        text-align: center;
+    }
+    .post-thumb a img{
+        border-radius: 4px 4px 0px 0px;
+    }
+    .post-content {
+        padding: 37px 12px;
+        border-radius: 0px 0px 4px;
+    }
+    .pagination-area{
+        text-align: center;
+    }
+    .widget-area {
+        padding-left: 0;
+        margin-top: 70px;
+    }
+
+    /*----------------------
+    Blog Details
+    ----------------------*/
+    .post-details h2.post-title span {
+        font-style: normal;
+        font-weight: 600;
+    }
+    .post-details h2.post-title {
+        font-size: 17px;
+    }
+    ul.blog-social{
+        margin-bottom: 20px;
+    }
+
+    /*----------------------
+    Faq
+    ----------------------*/
+    .faq-main-area {
+        padding: 80px 0px;
+    }
+    .faq-main-content{
+        padding-right: 0;
+    }
+
+    /*----------------------
+    Testimonial
+    ----------------------*/
+    .all-investor {
+        padding: 80px 0px;
+    }
+
+    /*----------------------
+    Team
+    ----------------------*/
+    .m-details-inner .m-details-thumb {
+        margin-right: 0;
+        float: none;
+    }
+    .member-tabs ul,
+    .member-tab-inner {
+        display: block;
+        text-align: center;
+    }
+    .member-tabs ul li{
+        margin: 0px 15px;
+        display: inline-block;
+    }
+    .member-tabs ul li + li:before {
+        left: -18px;
+    }
+    .member-tabs ul li a{
+        margin-right: 0;
+    }
+    .all-member-area{
+        padding-bottom: 10px;
+    }
+
+    /*----------------------
+    Get a Quotes
+    ----------------------*/
+    .get-quote-area {
+        padding: 80px 0px 60px;
+    }
+
+    /*----------------------
+    Contact
+    ----------------------*/
+    .contact-info-area {
+        padding-top: 90px;
+    }
+    .contact-form-area {
+        padding: 60px 0px 60px;
+    }
+    #google_map {
+        height: 250px;
+        margin-top: 50px;
+    }
+    .contact-info-text{
+        height: auto;
+        display: block;
+    }
+
+    /*----------------------
+    404
+    ----------------------*/
+    .error-area {
+        padding: 80px 0px;
+        text-align: center;
+    }
+    .error-content{
+        display: block;
+    }
+
+
+
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+    /*----------------------------
+      home one
+      ----------------------------*/
+    #preloader{
+        display: none;
+    }
+    .logo {
+        text-align: center;
+    }
+    .ht-address{
+        text-align: center!important;
+    }
+    .hta-single{
+        margin-left: 0;
+    }
+    .get-quote {
+        text-align: left;
+        margin: 10px 0px;
+    }
+    .get-quote a{
+        padding: 8px 0px;
+        max-width: 177px;
+    }
+    .slider-inner h2 {
+        font-size: 23px;
+        font-weight: 700;
+        line-height: 32px;
+    }
+    .slider-content ul.nav {
+        margin-bottom: 23px;
+    }
+    .slider-area,
+    .feature-area{
+        padding: 70px 0px;
+    }
+    .cc-text h3 {
+        font-size: 24px;
+    }
+    .cc-text{
+        margin-bottom: 19px;
+    }
+    .currency-calculate,
+    .cryptonatorwidget table tbody,
+    .cryptonatorwidget table tr,
+    .currency-form{
+        display: block;
+        width: 100%;
+    }
+    .cryptonatorwidget table tr td {
+        margin-right: 0;
+        width: 100%!important;
+        display: block;
+        margin-bottom: 15px;
+    }
+    .cryptonatorwidget .select-group i{
+        right: 13px;
+    }
+    .currency-calculate a.exchange-btn{
+        width: 100%;
+    }
+    .our-services {
+        padding: 70px 0px 50px;
+    }
+    .section-title h2 {
+        font-size: 19px;
+        line-height: 33px;
+    }
+    .section-title {
+        margin-bottom: 45px;
+    }
+    .single-service {
+        margin-bottom: 20px;
+    }
+    .single-step{
+        margin-bottom: 50px;
+    }
+    .step-area {
+        padding: 80px 0px 30px;
+    }
+    .pricing-area {
+        padding: 70px 0px 80px;
+    }
+    .prc-single{
+        margin-top: 40px;
+        height: auto;
+        padding-bottom: 40px;
+    }
+    .testimonial-area {
+        padding: 70px 0px;
+    }
+    .tst-thumb-area {
+        margin: auto;
+        margin-bottom: 37px;
+    }
+    .single-quotes{
+        text-align: center;
+    }
+    .single-quotes p{
+        font-size: 15px;
+    }
+    .tst-content .slick-dots {
+        left: 0;
+        bottom: 0;
+        text-align: center;
+        position: relative;
+        margin-top: 43px;
+    }
+    .subscribe-area h2 {
+        font-size: 21px;
+        margin-top: 7px;
+    }
+    .subscribe-form button{
+        position: relative;
+        right: 0;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .subscribe-form input{
+        height: 57px;
+    }
+    .footer-top {
+        padding: 70px 0px 30px;
+    }
+    .fwidget{
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    .footer-bottom {
+        padding: 20px 0px 25px;
+        text-align: center;
+    }
+    .f-social{
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    /*----------------------
+    home two
+    ----------------------*/
+    a#scrollUp{
+        display: none;
+    }
+    #header_fixed_height{
+        height: 174px;
+    }
+    .slider-two-active{
+        display: none;
+    }
+    .s2-content-wrap{
+        position: relative;
+    }
+    .s2-content-active .slick-list{
+        width: 100%;
+        height: auto;
+        padding: 60px 20px;
+        padding-bottom: 150px;
+    }
+    .s2-content-active:before{
+        display: none;
+    }
+    .s2-single-content h2 {
+        font-size: 21px;
+        line-height: 33px;
+    }
+    .s2-single-content p{
+        color: #fff;
+    }
+    .s2-content-active .slick-arrow{
+        z-index: 1;
+        right: calc(50% - 55px);
+    }
+    .s2-content-active .slick-prev{
+        right: auto;
+        left:  calc(50% - 55px);
+    }
+    .faq-left-img {
+        margin-bottom: 40px;
+    }
+    .faq-area{
+        padding-bottom: 70px;
+    }
+
+    /*----------------------
+    home Three
+    ----------------------*/
+    .s3-single {
+        height: auto;
+        display: block;
+        padding: 80px 0px;
+    }
+    .slider-three .owl-nav{
+        display: none;
+    }
+    .live-area {
+        padding-top: 70px;
+    }
+    .single-board-area.board-two{
+        display: block;
+    }
+    .board-two-inner{
+        overflow: hidden;
+        margin-bottom: 40px;
+    }
+    .single-board-area.board-one {
+        overflow-x: auto;
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+    }
+    .single-board-area.board-one .board-single{
+        width: 500px;
+    }
+    .chart-inner{
+        margin-bottom: 40px;
+    }
+    .bitcoin-chart{
+        padding-bottom: 40px;
+    }
+
+    /*----------------------
+    About Us
+    ----------------------*/
+    .about-us {
+        padding: 70px 0px 40px;
+    }
+    .about-left-img{
+        margin-right: 0;
+    }
+    .about-content{
+        margin-bottom: 40px;
+    }
+
+    /*----------------------
+    Services
+    ----------------------*/
+    .all-services{
+        margin-top: 0;
+        padding-bottom: 70px;
+    }
+    .all-services .single-service{
+        margin-bottom: 30px;
+    }
+
+    /*----------------------
+    Services Details
+    ----------------------*/
+    .service-details {
+        padding: 60px 0px;
+    }
+    .sdetails-img{
+        text-align: center;
+    }
+    .sdetails-img img{
+        margin-bottom: 30px;
+    }
+    .sdc-right, .sdc-left{
+        padding: 0px;
+    }
+    .service-content h2 {
+        font-size: 19px;
+        font-weight: 500;
+        line-height: 30px;
+    }
+    .sd-details-gap {
+        margin: 10px 0px;
+    }
+    .service-content h4 {
+        font-size: 15px;
+        line-height: 28px;
+    }
+    .sdetails-img {
+        margin-top: 20px;
+    }
+
+    /*----------------------
+    Exchange
+    ----------------------*/
+    .exchange-content{
+        margin-top: 70px;
+    }
+    .btc-single span{
+        width: 30px;
+    }
+    .btc-single p:first-child{
+        max-width: 90px;
+    }
+    .exchange-area {
+        padding-bottom: 70px;
+    }
+
+    /*----------------------
+    Blog
+    ----------------------*/
+    .blog-post-area {
+        padding: 70px 0px;
+    }
+    .post-content:before{
+        display: none;
+    }
+    .post-thumb a img{
+        border-radius: 4px 4px 0px 0px;
+    }
+    .post-content {
+        padding: 37px 12px;
+        border-radius: 0px 0px 4px;
+    }
+    .pagination-area{
+        text-align: center;
+    }
+    .widget-area {
+        padding-left: 0;
+        margin-top: 60px;
+    }
+
+    /*----------------------
+    Blog Details
+    ----------------------*/
+    .post-details h2.post-title span {
+        font-style: normal;
+        font-weight: 600;
+    }
+    .post-details h2.post-title {
+        font-size: 17px;
+    }
+    ul.blog-social{
+        margin-bottom: 20px;
+    }
+    .comment-info-inner article {
+        padding: 11px 8px 30px;
+    }
+    .comment-info-inner .meta-left{
+        margin-right: 15px;
+    }
+    .comment-info-inner .meta-left img{
+        max-width: 75px;
+    }
+    .comment-reply {
+        margin-top: 20px;
+        text-align: right;
+    }
+    .comment-reply a {
+        position: relative;
+        right: 0;
+        top: 0;
+        margin-right: 40px;
+    }
+
+    /*----------------------
+    Faq
+    ----------------------*/
+    .faq-main-area {
+        padding: 70px 0px;
+    }
+    .faq-main-content{
+        padding-right: 0;
+    }
+
+    /*----------------------
+    Testimonial
+    ----------------------*/
+    .all-investor {
+        padding: 70px 0px;
+    }
+    .single-investor .meta-thumb{
+        margin-right: 13px;
+    }
+    .single-investor {
+        padding: 30px 15px 34px;
+    }
+
+    /*----------------------
+    Team
+    ----------------------*/
+    .m-details-inner .m-details-thumb {
+        margin-right: 0;
+        float: none;
+    }
+    .member-tabs ul,
+    .member-tab-inner {
+        display: block;
+        text-align: center;
+    }
+    .member-tabs ul li{
+        display: inline-block;
+    }
+    .member-tabs ul li + li:before{
+        display: none;
+    }
+    .member-tabs ul li a{
+        margin-right: 0;
+    }
+    .all-member-area{
+        padding-bottom: 0;
+    }
+
+    /*----------------------
+    Get a Quotes
+    ----------------------*/
+    .get-quote-area {
+        padding: 70px 0px 50px;
+    }
+
+    /*----------------------
+    Contact
+    ----------------------*/
+    .contact-info-area {
+        padding-top: 80px;
+    }
+    .contact-form-area {
+        padding: 60px 0px 50px;
+    }
+    #google_map {
+        height: 250px;
+        margin-top: 50px;
+    }
+    .contact-info-text{
+        height: auto;
+        display: block;
+    }
+
+    /*----------------------
+    404
+    ----------------------*/
+    .error-area {
+        padding: 70px 0px;
+        text-align: center;
+    }
+    .error-content{
+        display: block;
+    }
+
+}
