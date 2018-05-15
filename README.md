@@ -80,6 +80,7 @@ http://localhost:8080
 * [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework
 * [vue-resource](https://github.com/pagekit/vue-resource) - Web requests & response handling
 * [Vuex](https://vuex.vuejs.org/en/) - State management pattern + library for Vue.js
+* [Webpack](https://webpack.js.org/) - Static module bundler for modern JavaScript applications
 
 ## License
 
