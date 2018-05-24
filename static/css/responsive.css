@@ -261,7 +261,7 @@
         font-size: 38px;
     }
     #header_fixed_height{
-        height: 100;
+        height: 95px;
     }
     .slick-vertical .s2-single.slick-slide{
         height: 500px;
@@ -540,7 +540,7 @@
         display: none;
     }
     #header_fixed_height{
-        height: 100px;
+        height: 95px;
     }
     .slider-two-active{
         display: none;
@@ -941,7 +941,7 @@
         display: none;
     }
     #header_fixed_height{
-        height: 100px;
+        height: 95px;
     }
     .slider-two-active{
         display: none;
