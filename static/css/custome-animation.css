@@ -1,0 +1,107 @@
+
+
+/*
+1.0 Custome Animation
+*/
+
+
+
+
+/*============================================
+* 1.0 Slider Content
+*=============================================*/
+
+/*hide all*/
+.slider-inner .tab-pane.active h2, /* Home one navtabs*/
+.slider-inner .tab-pane.active p,
+.slider-inner .tab-pane.active a,
+.s2-single-content.slick-active h2,  /* for slider two*/
+.s2-single-content.slick-active p,
+.s2-single-content.slick-active a,
+.owl-item.active .s2-single-content h2, /* for slider three*/
+.owl-item.active .s2-single-content p,
+.owl-item.active .s2-single-content a,{
+    opacity: 0;
+}
+
+/*animate all*/
+.slider-inner .tab-pane.active h2,
+.s2-single-content.slick-active h2{
+    -webkit-animation: fadeinleft 300ms ease-in-out 0s forwards;
+    -o-animation: fadeinleft 300ms ease-in-out 0s forwards;
+    animation: fadeinleft 300ms ease-in-out 0s forwards;
+}
+.owl-item.active .s2-single-content h2{
+    -webkit-animation: fadeindown 300ms ease-in-out 0.1s forwards;
+    -o-animation: fadeindown 300ms ease-in-out 0.1s forwards;
+    animation: fadeindown 300ms ease-in-out 0.1s forwards;
+}
+.slider-inner .tab-pane.active p,
+.s2-single-content.slick-active p,
+.owl-item.active .s2-single-content p{
+    -webkit-animation: fadeindown 500ms ease-in-out 0.1s forwards;
+    -o-animation: fadeindown 500ms ease-in-out 0.1s forwards;
+    animation: fadeindown 500ms ease-in-out 0.1s forwards;
+}
+.slider-inner .tab-pane.active a,
+.s2-single-content.slick-active a,
+.owl-item.active .s2-single-content a{
+    -webkit-animation: fadeindown 500ms ease-in-out 0.3s forwards;
+    -o-animation: fadeindown 500ms ease-in-out 0.3s forwards;
+    animation: fadeindown 500ms ease-in-out 0.3s forwards;
+}
+
+.m-details-thumb:hover .m-thumb:before{
+    -webkit-animation: rotating_thumb 1.5s linear 0s infinite;
+    -o-animation: rotating_thumb 1.5s linear 0s infinite;
+    animation: rotating_thumb 1.5s linear 0s infinite;
+}
+/*all animation keyframes*/
+@keyframes fadeindown{
+    0%{
+        opacity: 0;
+        transform: translateY(60px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+
+@keyframes bouncing{
+    0%{
+        transform: translateY(0px);
+    }
+    50%{
+        transform: translateY(5px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+}
+
+@keyframes rotating_thumb{
+    0%{
+        opacity: 0;
+        transform: rotate(0deg);
+    }
+    50%{
+        opacity: 1;
+        transform: rotate(180deg);
+    }
+    100%{
+        opacity: 0;
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes fadeinleft{
+    0%{
+        opacity: 0;
+        transform: translateX(-30px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateX(0px);
+    }
+}

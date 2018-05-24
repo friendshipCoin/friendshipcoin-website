@@ -174,8 +174,7 @@
       home one
       ----------------------------*/
     .logo {
-        text-align: center;
-        margin-bottom: 20px;
+        text-align: left;
     }
     .slicknav_menu>a{
         top: -15px;
@@ -262,7 +261,7 @@
         font-size: 38px;
     }
     #header_fixed_height{
-        height: 174px;
+        height: 100;
     }
     .slick-vertical .s2-single.slick-slide{
         height: 500px;
@@ -437,8 +436,7 @@
     home one
     ----------------------------*/
     .logo {
-        text-align: center;
-        margin-bottom: 20px;
+        text-align: left;
     }
     .slicknav_menu>a{
         top: -15px;
@@ -542,7 +540,7 @@
         display: none;
     }
     #header_fixed_height{
-        height: 174px;
+        height: 100px;
     }
     .slider-two-active{
         display: none;
@@ -807,7 +805,7 @@
         display: none;
     }
     .logo {
-        text-align: center;
+        text-align: left;
     }
     .ht-address{
         text-align: center!important;
@@ -943,7 +941,7 @@
         display: none;
     }
     #header_fixed_height{
-        height: 174px;
+        height: 100px;
     }
     .slider-two-active{
         display: none;
